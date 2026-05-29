@@ -35,3 +35,4 @@ Notes and usage details for gutsy.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- fix a small wording issue
